@@ -1,9 +1,9 @@
 This is a mirror of http://www.vim.org/scripts/script.php?script_id=3444
 
-/!\ GVIM ONLY /!\
-
 I made this color scheme cause I'm a Web developper and I switch all the time between light and dark windows. This color scheme uses a set of low contrast colors.
 Initially made for PHP, i'm using it with REBOL and D without problems.
 
-screen: http://artin.la.pppppute.yom.be/public/www.vim.org/golded.png
+screen:
+http://art.oui.la/public/www.vim.org/01.png
+http://art.oui.la/public/www.vim.org/02.png
 
